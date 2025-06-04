@@ -1,4 +1,4 @@
-https://github.com/Josedmas/UF1472--PRUEBA-PRACTICA
+📦 Base de Datos Northwind (Adaptada para PostgreSQL)
 # UF1472_Tarek
 
 ``` bash
