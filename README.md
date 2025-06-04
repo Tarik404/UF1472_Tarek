@@ -14,7 +14,7 @@ northwind-postgres-modificado/
 ├── northwind_modificado.sql — ⭐ Dump completo de la BD
 ├── docs/ — Guías de instalación, mejoras y ejemplos
 └── img/ — Diagrama ER y capturas de consultas
-
+```
 
 ``` bash
 C:\Users\ademo>psql -U postgres -d postgres
