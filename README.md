@@ -15,7 +15,12 @@ northwind-postgres-modificado/
 ├── docs/ — Guías de instalación, mejoras y ejemplos
 └── img/ — Diagrama ER y capturas de consultas
 ```
+# 🚀 Instalación Rápida
+Requisitos Previos:
 
+PostgreSQL 12+
+
+Cliente psql o pgAdmin 
 ``` bash
 C:\Users\ademo>psql -U postgres -d postgres
 Contraseña para usuario postgres:
