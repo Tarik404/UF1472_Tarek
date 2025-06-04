@@ -17,10 +17,25 @@ northwind-postgres-modificado/
 ```
 # 🚀 Instalación Rápida
 Requisitos Previos:
-
 PostgreSQL 12+
-
 Cliente psql o pgAdmin 
+# 🕥 Instalación en 3 pasos
+1. clonar repositorio
+``` bash
+ git clone https://github.com/tu-usuario/northwind-postgres-modificado.git
+cd northwind-postgres-modificado
+```
+2. crear base de datos
+``` bash
+ createdb northwind_curso
+```
+3. Restaurar dump completo
+``` bash
+psql -d northwind_curso -f northwind_modificado.sql
+```
+
+   
+
 ``` bash
 C:\Users\ademo>psql -U postgres -d postgres
 Contraseña para usuario postgres:
