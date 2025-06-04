@@ -2,6 +2,14 @@
 Este proyecto incluye una versión adaptada del conocido conjunto de datos Northwind, especialmente preparada para funcionar con PostgreSQL. Se trata de una base de datos que simula el funcionamiento de una empresa distribuidora de alimentos, con información detallada sobre clientes, productos, pedidos, empleados, envíos y otros aspectos clave del negocio.
 # ✨ Funcionalidades Añadidas
 Organización Jerárquica de Categorías: Se incorporaron subcategorías para lograr una estructura más ordenada y fácil de navegar.
+🛠️ Tecnologías Utilizadas
+PostgreSQL 12 o superior como sistema de gestión de bases de datos
+
+pgAdmin (uso opcional) para administración y visualización
+
+Archivo SQL Dump incluido para facilitar una instalación rápida
+
+
 
 
 ``` bash
