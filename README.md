@@ -7,8 +7,12 @@ Organización Jerárquica de Categorías: Se incorporaron subcategorías para lo
 PostgreSQL 12 o superior como sistema de gestión de bases de datos
 pgAdmin (uso opcional) para administración y visualización
 Archivo SQL Dump incluido para facilitar una instalación rápida
-
-
+# 📁 Estructura del Repositorio
+northwind-postgres-modificado/
+├── README.md — Información general
+├── northwind_modificado.sql — ⭐ Dump completo de la BD
+├── docs/ — Guías de instalación, mejoras y ejemplos
+└── img/ — Diagrama ER y capturas de consultas
 
 
 ``` bash
