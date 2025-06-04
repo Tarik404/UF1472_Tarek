@@ -38,7 +38,7 @@ psql -d northwind_curso -f northwind_modificado.sql
 ![imagen JSONB](./images.png)
 
    
-
+# 🚀 Instalación de la Base de Datos Northwind_curso en PostgreSQL desde la Terminal
 ``` bash
 C:\Users\ademo>psql -U postgres -d postgres
 Contraseña para usuario postgres:
