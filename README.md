@@ -33,6 +33,7 @@ cd northwind-postgres-modificado
 ``` bash
 psql -d northwind_curso -f northwind_modificado.sql
 ```
+¡Y listo! La base de datos estará completamente configurada con datos de ejemplo.
 
    
 
