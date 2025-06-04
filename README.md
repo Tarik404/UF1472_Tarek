@@ -1,5 +1,5 @@
 📦 Base de Datos Northwind (Adaptada para PostgreSQL) 
-📦 Base de Datos Northwind (Adaptada para PostgreSQL)
+
 # UF1472_Tarek
 
 ``` bash
