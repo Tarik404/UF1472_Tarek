@@ -41,6 +41,9 @@ psql -d northwind_curso -f northwind_modificado.sql
 SELECT * FROM vw_productos_stock LIMIT 5;
 SELECT * FROM vw_clientes_frecuentes LIMIT 5;
 SELECT * FROM vw_empleados_ventas LIMIT 5;
+SELECT * FROM vw_total_ventas_por_pais LIMIT 5;
+SELECT * FROM vw_top_productos LIMIT 5;
+SELECT * FROM vw_envios_pendientes LIMIT 5;
 ```
    
 # 🚀 Instalación de la Base de Datos Northwind_curso en PostgreSQL desde la Terminal
