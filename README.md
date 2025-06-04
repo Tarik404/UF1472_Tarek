@@ -35,6 +35,7 @@ psql -d northwind_curso -f northwind_modificado.sql
 ```
 ¡Y listo! La base de datos estará completamente configurada con datos de ejemplo.
 # 📊 Vistas SQL del Proyecto Northwind (PostgreSQL)
+![imagen JSONB](./images.png)
 
    
 
