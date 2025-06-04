@@ -12,8 +12,6 @@ Archivo SQL Dump incluido para facilitar una instalación rápida
 
 
 ``` bash
-Organización Jerárquica de Categorías: Se incorporaron subcategorías para lograr una estructura más ordenada y fácil de navegar.
-
 C:\Users\ademo>psql -U postgres -d postgres
 Contraseña para usuario postgres:
 
