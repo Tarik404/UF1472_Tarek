@@ -5,7 +5,7 @@ Organización Jerárquica de Categorías: Se incorporaron subcategorías para lo
 
 # 🛠️ Tecnologías Utilizadas
 PostgreSQL 12 o superior como sistema de gestión de bases de datos
-pgAdmin (uso opcional) para administración y visualización
+pgAdmin  para administración y visualización
 Archivo SQL Dump incluido para facilitar una instalación rápida
 # 📁 Estructura del Repositorio
 ``` bash
