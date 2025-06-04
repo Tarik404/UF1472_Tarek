@@ -36,7 +36,12 @@ psql -d northwind_curso -f northwind_modificado.sql
 ¡Y listo! La base de datos estará completamente configurada con datos de ejemplo.
 # 📊 Vistas SQL del Proyecto Northwind (PostgreSQL)
 ![imagen JSONB](./images.png)
-
+# ✅ Verificar vistas en PostgreSQL
+``` bash
+SELECT * FROM vw_productos_stock LIMIT 5;
+SELECT * FROM vw_clientes_frecuentes LIMIT 5;
+SELECT * FROM vw_empleados_ventas LIMIT 5;
+```
    
 # 🚀 Instalación de la Base de Datos Northwind_curso en PostgreSQL desde la Terminal
 ``` bash
