@@ -66,3 +66,9 @@ postgres-# \q
 C:\Users\ademo>createdb -U postgres northwind_curso
 Contraseña:
 ```
+# 📌 Realizar una copia de seguridad completa (dump) de la base de datos Northwind y almacenarla en un archivo.
+``` bash
+pg_dump -U postgres -d northwind -f "C:\Users\ademo\Desktop\git\SQL-POSTGRES-Northwind.sql"
+```
+
+
