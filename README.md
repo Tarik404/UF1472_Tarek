@@ -22,8 +22,9 @@ Cliente psql o pgAdmin
 # 🕥 Instalación en 3 pasos
 1. clonar repositorio
 ``` bash
- git clone https://github.com/tu-usuario/northwind-postgres-modificado.git
-cd northwind-postgres-modificado
+ git clone https://github.com/Tarik404/UF1472_Tarek.git
+cd UF1472_Tarek
+
 ```
 2. crear base de datos
 ``` bash
