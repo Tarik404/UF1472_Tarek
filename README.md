@@ -32,7 +32,7 @@ cd UF1472_Tarek
 ```
 3. Restaurar dump completo
 ``` bash
-psql -U tu_usuario -d northwind_01 -f dump_northwind_01.sql
+psql -U tu_usuario -d northwind_01 -f dump_northwind.sql
 ```
 ¡Y listo! La base de datos estará completamente configurada con datos de ejemplo.
 # 📊 Vistas SQL del Proyecto Northwind (PostgreSQL)
